@@ -1,0 +1,4 @@
+First command that we ran was 
+		git version: it printd out the version details of the git app installed
+		git config --global user.name "Rajat-Kumar-Vimal"
+		git config --global user.email "rajatkvimal@gmail.com"
